@@ -1,0 +1,4 @@
+spring:
+  cloud:
+    config:
+      uri: https://github.com/RolandSall/social-media-config.git
